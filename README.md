@@ -10,6 +10,8 @@ On your Local Network:
 On your machine: open the files directly
 
 On other devices in your network: Host the files with ``python3 -m http.server`` or ``php -S localhost:8000``
+ 
+You must have [Python 3](https://python.org/downloads) or [PHP](https:/php.net/download.php) installed on your machine.
 
 Exposing your IP: 
 
